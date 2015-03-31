@@ -1,5 +1,6 @@
 <?php
 /*
+
 Plugin Name: Wordpress Archive Cloud
 Plugin URI: http://thebrent.net/projects/wordpress-archive-cloud/
 Description: Archive widget that uses tag-cloud functionality to display archive links with relative size, like the tag cloud.
@@ -9,7 +10,6 @@ Author URI: http://thebrent.net/
 License: GPL2
 
 */
-
 class WP_Widget_ArchiveCloud extends WP_Widget {
 	
 	public function __construct() {
