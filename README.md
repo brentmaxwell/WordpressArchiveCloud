@@ -5,7 +5,7 @@ Archive widget that uses tag-cloud functionality to display archive links with r
 
 ## Description
 
-Archive widget that uses tag-cloud functionality to display archive links with relative size, like the tag cloud.
+Archive widget that uses tag-cloud functionality to display archive links with relative size, like the tag cloud. Can also be pointed to custom post types.
 
 ## Installation 
 
@@ -16,6 +16,9 @@ Archive widget that uses tag-cloud functionality to display archive links with r
 ## Frequently Asked Questions ##
 
 ## Changelog 
+
+### 0.2.0
+* Added ability to select custom post types for the archive.
 
 ### 0.1.0 
 * First stable working version
